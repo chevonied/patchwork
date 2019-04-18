@@ -1,4 +1,4 @@
-# Patchwork
+# Patchwork (IT484 Exercise)
 
 ![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)
 
